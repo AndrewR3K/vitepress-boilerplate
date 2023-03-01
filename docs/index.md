@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide
+      link: /getstarted
     - theme: alt
       text: View on GitHub
       link: https://github.com/AndrewR3K/vitepress-boilerplate
